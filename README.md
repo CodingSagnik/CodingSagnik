@@ -1,5 +1,7 @@
-# 💫 About Me:
-🛠️ Currently building a MERN app and a browser extension to make life easier (and cooler).<br>🤝 Open to teaming up on full-stack projects, hackathons, and anything fun & challenging.<br>🤲 Could use tips on squeezing max performance out of web apps.<br>🌱 Learning Next.js, React, Tailwind, and exploring the world of ML.<br>💬 Let’s chat about web dev, tech fests, or passion projects!<br>⚡ Fun fact: I built a decentralized chat app for fun!
+![Blue Modern Corporate Staff Profile LinkedIn Banner](https://github.com/user-attachments/assets/ef18750e-d171-4e54-b6c9-77e090cd7e7b)
+
+# 💫 Hey there, its me Sagnik!
+🎓 CS undergrad at Vellore Institute of Technology. <br>🛠️ Currently building a MERN app and a browser extension to make life easier (and cooler).<br>🤝 Open to teaming up on full-stack projects, hackathons, and anything fun & challenging.<br>🤲 Could use tips on squeezing max performance out of web apps.<br>🌱 Learning Next.js, React, Tailwind, and exploring the world of ML.<br>💬 Let’s chat about web dev, tech fests, or passion projects!<br>⚡ Fun fact: I built a decentralized chat app for fun!
 
 
 ## 🌐 Socials:
